@@ -1,0 +1,8 @@
+- Unpacking a dictionary or container
+- Data Structures
+    - String
+    - Integer
+    - Date/Datetime
+    - List
+    - Tuple
+    - Dictionary
